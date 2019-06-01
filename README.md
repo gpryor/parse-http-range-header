@@ -1,5 +1,7 @@
 # parse-http-range-header
 
+[![Build Status](https://travis-ci.org/gpryor/parse-http-range-header.svg?branch=master)](https://travis-ci.org/gpryor/parse-http-range-header)
+
 Syntax-verify and parse [HTTP request range
 header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Range)
 
