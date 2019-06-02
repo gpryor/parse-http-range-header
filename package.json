@@ -1,10 +1,14 @@
 {
   "name": "parse-http-range-header",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/gpryor/parse-http-range-header.git"
   },
   "keywords": [],
   "author": "",
